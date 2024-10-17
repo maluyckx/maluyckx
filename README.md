@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Marco</h1>
-<h3 align="center">A cybersecurity student at ULB. </h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I am a DevSecOps and Cloud Security Engineer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maluyckx" alt="maluyckx" /></a> </p>
 
 - 🔭 I’m currently working on **finishing the Portswigger lessons.**
 
-- 🌱 I’m currently learning **Terraform, Docker and Kubernetes.**
+- 🌱 I’m currently learning **Kubernetes and server hardening.**
 
 <p align="left">
 </p>
